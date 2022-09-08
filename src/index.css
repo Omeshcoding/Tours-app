@@ -164,7 +164,7 @@ main {
   margin-bottom: 4rem;
 }
 .underline {
-  width: 6rem;
+  width: 8rem;
   height: 0.25rem;
   background: var(--clr-primary-5);
   margin-left: auto;
@@ -188,6 +188,7 @@ main {
   border-top-right-radius: var(--radius);
   border-top-left-radius: var(--radius);
 }
+
 .tour-info {
   display: flex;
   justify-content: space-between;
